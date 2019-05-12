@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="ModuleRunConfigurationManager">
+    <shared />
+  </component>
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="jdk" jdkName="chruby: 2.5.3" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="library" scope="PROVIDED" name="ast (v2.4.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="backports (v3.14.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="builder (v3.2.3, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v2.0.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="childprocess (v1.0.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="concurrent-ruby (v1.1.5, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber (v3.1.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-core (v3.2.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-expressions (v6.0.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-tag_expressions (v1.1.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="cucumber-wire (v0.0.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="data_magic (v1.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="diff-lcs (v1.3, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="faker (v1.9.3, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="gherkin (v5.1.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="httparty (v0.17.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="i18n (v1.6.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="jaro_winkler (v1.5.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types (v3.2.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="mime-types-data (v3.2019.0331, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_json (v1.13.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_test (v0.1.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="multi_xml (v0.6.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="page-object (v2.2.6, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="page_navigation (v0.10, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parallel (v1.17.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="parser (v2.6.3.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rainbow (v3.0.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rake (v12.3.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="regexp_parser (v1.4.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec (v3.8.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-core (v3.8.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-expectations (v3.8.3, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-mocks (v3.8.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rspec-support (v3.8.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubocop (v0.68.1, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="ruby-progressbar (v1.10.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="rubyzip (v1.2.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="selenium-webdriver (v3.142.2, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="unicode-display_width (v1.5.0, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="watir (v6.16.5, chruby: 2.5.3) [gem]" level="application" />
+    <orderEntry type="library" scope="PROVIDED" name="yml_reader (v0.7, chruby: 2.5.3) [gem]" level="application" />
+  </component>
+</module>

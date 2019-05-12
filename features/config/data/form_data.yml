@@ -1,0 +1,17 @@
+# yaml file which holds all data for the demo
+default_form:
+  first_name:        ~first_name
+  last_name:         ~last_name
+  email:             ~email_address
+  phone:             ~phone_number
+  address:           Uncles Hut
+  city:              Tatooine City
+  state:             Florida
+  zip:               ~zip_code
+  website:           to be replaced by page
+  hosting:           true
+  description:       To be replaced by outliers
+
+parameters:
+  array_1:          [22, 24, 0, 100, 4, 111, 2602, 18]
+  array_2:          [60, 33, 1719, 25, 19, 13, -21]
