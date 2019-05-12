@@ -1,6 +1,6 @@
 # RUBY DEMO
 
-Demonstration of using Cucumber, Ruby and the Watir gem (a library that sits on top of the Selenium Ruby bindings) to fill in a web form with data procured from Star Wars api and a puzzle class.
+Demonstration of using Cucumber, Ruby and the Watir gem (a library that sits on top of the Selenium Ruby bindings) to fill in a web form with data procured from the Star Wars API and a puzzle class.
 
 The form_data.yml file holds all data for the test in one place including default data for the web form and also the arrays for the puzzle class. 
 
