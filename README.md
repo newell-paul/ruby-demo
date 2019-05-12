@@ -9,9 +9,13 @@ The data magic gem has the ability to pull in data from the yml file and also pr
 This demo uses the following main gems:
 
 Cucumber    - Behaviour Driven Development (BDD)
+
 Watir       - Selenium Library
+
 PageObject  - Easy Page Objects
+
 DataMagic.  - Provides easy access to test data
+
 HTTParty    - Get API response
 
 
