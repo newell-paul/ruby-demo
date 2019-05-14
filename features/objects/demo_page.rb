@@ -19,7 +19,7 @@ class FormPage
   button(:submit, class: %w[btn btn-default])
   div(:validation_message, class: 'col-md-6 text-left')
 
-  def fill_form(hash_to_merge, _data = {})
+  def fill_form(hash_to_merge)
     populate_page_with data_for(:default_form, hash_to_merge)
   end
 end
